@@ -38,7 +38,7 @@ Perl version **5.10** or higher is required
 
 Filebuster resources a lot of features to third party libraries. However they can be easily installed with the following command:
 ```
-# cpan install YAML Furl Switch Benchmark Cache::LRU Net::DNS::Lite List::MoreUtils IO::Socket::SSL URI::Escape HTML::Entities IO::Socket::Socks::Wrapper
+# cpan -T install YAML Furl Switch Benchmark Cache::LRU Net::DNS::Lite List::MoreUtils IO::Socket::SSL URI::Escape HTML::Entities IO::Socket::Socks::Wrapper
 ```
 
 ### Installation
